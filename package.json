@@ -1,6 +1,6 @@
 {
   "name": "xenoblade2-translation",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "devDependencies": {
